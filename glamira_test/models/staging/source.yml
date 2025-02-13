@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+- name: staging
+  database: zippy-cab-443813-c6
+  schema: glamira_ubl
+  tables: 
+    - name: product
+    - name: location
+    - name: raw_layer
+    - name: date
