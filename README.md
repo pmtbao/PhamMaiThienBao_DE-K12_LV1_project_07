@@ -8,13 +8,13 @@
 - [dbt_venv](dbt_venv): folder chứa cấu hình môi trường ảo để thực thi dbt model.
 - [glamira_test](glamira_test): folder chứa model thực thi
 
-## Quy trình thực thi:
+## Quy trình thực thi (Windows):
 - Clone code về và giải nén thư mục.
-- Truy cập vào thư mục bằng VS Code.
-- Sử dụng môi trường ảo được cấu hình trong dbt_venv.
-- Sử dụng trình python.exe được cài đặt trong dbt_venv.
-- Truy cập vào thư mục glamira_test.
-- Run model.
+- Truy cập vào thư mục bằng VS Code .
+- Sử dụng môi trường ảo được cấu hình trong dbt_venv [dbt_venv/Scripts/Activate.ps1].
+- Sử dụng trình python.exe được cài đặt trong dbt_venv [dbt_venv/Scripts/python.exe].
+- Truy cập (cd) vào thư mục glamira_test.
+- Run model trong [glamira_test/models].
 
 ## Biểu đồ phân tích dữ liệu:
 [Visualization](https://lookerstudio.google.com/reporting/d3230427-6d83-4f48-aaa6-fd98b042b91b)
