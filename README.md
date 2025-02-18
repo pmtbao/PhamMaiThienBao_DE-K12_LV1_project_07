@@ -11,10 +11,10 @@
 ## Quy trình thực thi (Windows):
 - Clone code về và giải nén thư mục.
 - Truy cập vào thư mục bằng VS Code .
-- Sử dụng môi trường ảo được cấu hình trong dbt_venv [dbt_venv/Scripts/Activate.ps1].
-- Sử dụng trình python.exe được cài đặt trong dbt_venv [dbt_venv/Scripts/python.exe].
+- Sử dụng môi trường ảo được cấu hình trong dbt_venv [dbt_venv/Scripts/Activate.ps1](dbt_venv/Scripts/).
+- Sử dụng trình python.exe được cài đặt trong dbt_venv [dbt_venv/Scripts/python.exe](dbt_venv/Scripts/).
 - Truy cập (cd) vào thư mục glamira_test.
-- Run model trong [glamira_test/models].
+- Run model trong [glamira_test/models](glamira_test/models).
 
 ## Biểu đồ phân tích dữ liệu:
 [Visualization](https://lookerstudio.google.com/reporting/d3230427-6d83-4f48-aaa6-fd98b042b91b)
