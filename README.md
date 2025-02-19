@@ -9,7 +9,7 @@
 - [glamira_test](glamira_test): folder chứa model thực thi
 
 ## Quy trình thực thi (Windows):
-- Clone code về và giải nén thư mục.
+- Clone code về và giải nén thư mục (nếu cần).
 - Truy cập vào thư mục bằng VS Code .
 - Sử dụng môi trường ảo được cấu hình trong dbt_venv [dbt_venv/Scripts/Activate.ps1](dbt_venv/Scripts/).
 - Sử dụng trình python.exe được cài đặt trong dbt_venv [dbt_venv/Scripts/python.exe](dbt_venv/Scripts/).
