@@ -16,8 +16,8 @@
 - Cấu hình các file .yml cần thiết để có thể kết nối với BigQuery. (*file profiles.yml* và *.user.yml* trong thư mục C:\Users\...\.dbt)
 - Truy cập (cd) vào thư mục glamira_test.
 - Run model trong [glamira_test/models](glamira_test/models).
--- |- staging
--- |- analytics
+- |- staging
+- |- analytics
 
 ## Biểu đồ phân tích dữ liệu:
 [Visualization](https://lookerstudio.google.com/reporting/d3230427-6d83-4f48-aaa6-fd98b042b91b)
