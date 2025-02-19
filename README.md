@@ -2,7 +2,7 @@
 
 ### Yêu cầu tiên quyết: [project_5-6](https://github.com/pmtbao/PhamMaiThienBao_DE-K12_LV1_project_05.git)
 
-## Mô tả file và thư mục:
+## Mô tả files và folders:
 - [dim_date.sql](dim_date.sql): file tạo chiều thời gian (date dimension) để phục vụ phân tích.
 - [dim_date.csv](dim_date.csv): file .csv được tạo ra sau khi chạy [](dim_date.sql).
 - [dbt_venv](dbt_venv): folder chứa cấu hình môi trường ảo để thực thi dbt model.
