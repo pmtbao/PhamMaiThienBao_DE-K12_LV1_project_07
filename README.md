@@ -19,5 +19,4 @@
   -   |- staging
   -   |- analytics
 
-## Biểu đồ phân tích dữ liệu:
-[Visualization](https://lookerstudio.google.com/reporting/d3230427-6d83-4f48-aaa6-fd98b042b91b)
+## Biểu đồ phân tích dữ liệu: [Visualization](https://lookerstudio.google.com/reporting/d3230427-6d83-4f48-aaa6-fd98b042b91b)
